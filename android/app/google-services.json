@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1023822115946",
+    "project_id": "testauth-44b66",
+    "storage_bucket": "testauth-44b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023822115946:android:d3653937fbe89ea8de8613",
+        "android_client_info": {
+          "package_name": "com.example.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023822115946-b6sa7ir7f90ginjojhm1purucnqol2tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZgRAB9Cntyxoz5b2UE1M4n6V_3ZX1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023822115946-akri1ij17k0hvgju8j6ouatq8tll3ndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023822115946:android:91cbd751f417aa14de8613",
+        "android_client_info": {
+          "package_name": "com.shonod.risho_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023822115946-f24crf3dhqlqrev3sbha6uvv7a2d9iea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shonod.risho_speech",
+            "certificate_hash": "3076b10bb65d9f4f79a7b525e506c60fb2bfc78b"
+          }
+        },
+        {
+          "client_id": "1023822115946-b6sa7ir7f90ginjojhm1purucnqol2tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZgRAB9Cntyxoz5b2UE1M4n6V_3ZX1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023822115946-akri1ij17k0hvgju8j6ouatq8tll3ndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
